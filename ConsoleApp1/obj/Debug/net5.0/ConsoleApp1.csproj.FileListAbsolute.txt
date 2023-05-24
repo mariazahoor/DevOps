@@ -1,0 +1,16 @@
+D:\DevOps\SourceCode\DevOpsLab\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\DevOps\SourceCode\DevOpsLab\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\DevOps\SourceCode\DevOpsLab\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\DevOps\SourceCode\DevOpsLab\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\DevOps\SourceCode\DevOpsLab\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\DevOps\SourceCode\DevOpsLab\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+D:\DevOps\SourceCode\DevOpsLab\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\DevOps\SourceCode\DevOpsLab\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\DevOps\SourceCode\DevOpsLab\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevOps\SourceCode\DevOpsLab\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\DevOps\SourceCode\DevOpsLab\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\DevOps\SourceCode\DevOpsLab\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\DevOps\SourceCode\DevOpsLab\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\DevOps\SourceCode\DevOpsLab\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+D:\DevOps\SourceCode\DevOpsLab\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\DevOps\SourceCode\DevOpsLab\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
